@@ -15,7 +15,7 @@
 
 ## Example Usage
 ```
-https://timestamp-api-ms.herokuapp.com/February 22, 2017
+https://timestamp-api-ms.herokuapp.com/February,22,2017
 ```
 ```
 localhost:3000/1487721600
